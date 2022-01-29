@@ -18,14 +18,14 @@ Develop Blog System platform for people around glob using Java servlet technolog
 
 # Application Requirements
 
-Java program to display web contents
-Java program basic knowledge also basic concepts of SQL
-Java programming basics
-HTML & CSS for Frontend (GUI) of website
-Bootstrap for better GUI
-Website for login as Admin or student
-For admin give administrative actions etc
-for common people etc
+- Java program to display web contents
+- Java program basic knowledge also basic concepts of SQL
+- Java programming basics
+- HTML & CSS for Frontend (GUI) of website
+- Bootstrap for better GUI
+- Website for login as Admin or student
+- For admin give administrative actions etc
+- for common people etc
 
 # Tools Required:
 1. JDK (1.8)
